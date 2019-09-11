@@ -1,0 +1,2 @@
+1,not security with session, use coookie with session to assurance authentication
+2, not use editor for edit note. 
